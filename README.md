@@ -1,13 +1,13 @@
-En este repositorio compartiré todos los proyectos que vaya haciendo a partir de septiembre de 2022 relacionados con ciencia e ingeniería de datos. Especialmente, enfoco mi trabajo en el tratamiento de datos masivos (Big Data) a través de sistemas de base de datos como PostgresSQL y lenguajes como Scala o Spark y trato de obtener conclusiones de estos con algoritmos de Machine Learning y diferentes herramientas de análiticas de datos.
+En este repositorio publicaré todos los proyectos que vaya haciendo a partir de septiembre de 2022 relacionados con ciencia e ingeniería de datos. Especialmente, enfoco mi trabajo en el tratamiento de datos masivos (Big Data) a través de sistemas de base de datos como PostgresSQL y lenguajes como Scala/Spark y trato de obtener conclusiones de estos con algoritmos de Machine Learning y diferentes herramientas de análiticas de datos.
 
-Mi propósito 
+Mi propósito es compartir mi progreso durante todo mi aprendizaje y que pueda servir a otros estudiantes como material de estudio.
 
 
 
-## Projects
+## Projectos
 
-### NLP
-| Project Name | Description | Date |
+### Series temporales
+| Nombre del proyecto | Descripción | Fecha de realización |
 | ------------- |:-------------:|:-------------:|
 | **[Disaster Message Classification](https://github.com/FisherKK/Portfolio/tree/master/Projects/Disaster-Response-Classification)** | The project is a showcase how to create ETL Pipeline and Machine Learning Pipeline in order build NLP model capable of attaching any of 35 categories to the message. Interaction with model can be done via website hosted on Flask server.| Jun 26, 2019 |
 
@@ -16,10 +16,6 @@ Mi propósito
 | ------------- |:-------------:|:-------------:|
 | **[Write Data Driven Blog Post](https://github.com/FisherKK/Portfolio/tree/master/Projects/Dota-Analysis)** | The goal of this project is to present the capability of gathering and analyzing data about a specific topic  (in this case, Dota 2 player scene). It consists of ETL process where data is downloaded, cleaned, and transformed, as well as the data analysis process. The output of the project is a blog post communicating lessons learned. | Jul 20, 2019 |
 
-### Image Processing
-| Project Name | Description | Date |
-| ------------- |:-------------:|:-------------:|
-| **[Dog Breed Prediction](https://github.com/FisherKK/Portfolio/tree/master/Projects/Dog-Breed-Prediction)** | System assembled from three models: human detector, dog detector and dog breed detector. For dog images it return most similar dog breed name out of 133 possible. For human it says to which dog breed human image is most similar to. | Aug 01, 2019 |
 
 ## Showcases
 
