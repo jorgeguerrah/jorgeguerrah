@@ -1,4 +1,8 @@
-At start of 2016, when had started my ML related education I created portfolio repository, named [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI), where I kept uploading new exercises or mini projects. As some time have passed I'd like to restart this idea and increase the quality of my work.
+En este repositorio compartiré todos los proyectos que vaya haciendo a partir de septiembre de 2022 relacionados con ciencia e ingeniería de datos. Especialmente, enfoco mi trabajo en el tratamiento de datos masivos (Big Data) a través de sistemas de base de datos como PostgresSQL y lenguajes como Scala o Spark y trato de obtener conclusiones de estos con algoritmos de Machine Learning y diferentes herramientas de análiticas de datos.
+
+Mi propósito 
+
+
 
 ## Projects
 
@@ -36,16 +40,4 @@ At start of 2016, when had started my ML related education I created portfolio r
 | **[Naive Bayes](https://github.com/FisherKK/Portfolio/blob/master/Showcases/Machine%20Learning/Raw/Naive%20Bayes%20-%20Raw%20Implementation.ipynb)** | Examples of Naive Bayes usage and Gaussian Naive Bayes raw implementation. | Feb 23, 2019 |
 
 
-## Blog posts & Articles
 
-My other technical articles (related to Android, scripting and QA automation) can be found at my Medium profile:
-[@krzyk.kamil](https://medium.com/@krzyk.kamil).
-
-| Article Name | Date |
-| ------------- |:-------------:|
-| **[Building a statistical analysis tech stack](https://medium.com/azimolabs/building-a-statistical-analysis-tech-stack-5d27cd5a7ef3)** | Jun 19, 2018 |
-| **[Coding Deep Learning for Beginners — Start!](https://towardsdatascience.com/coding-deep-learning-for-beginners-start-a84da8cb5044)** | Feb 12, 2018 |
-| **[Coding Deep Learning For Beginners - Types of Machine Learning](https://towardsdatascience.com/coding-deep-learning-for-beginners-types-of-machine-learning-b9e651e1ed9d)** | Jul 25, 2018 |
-| **[Coding Deep Learning for Beginners — Linear Regression (Part 1): Initialization and Prediction](https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-part-1-initialization-and-prediction-7a84070b01c8)** | Aug 1, 2018 |
-| **[Coding Deep Learning for Beginners — Linear Regression (Part 2): Cost Function](https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-part-2-cost-function-49545303d29f)** | Aug 8, 2018 |
-| **[Coding Deep Learning for Beginners — Linear Regression (Part 3): Training with Gradient Descent](https://towardsdatascience.com/coding-deep-learning-for-beginners-linear-regression-gradient-descent-fcd5e0fc077d)** | Aug 23, 2018 |
